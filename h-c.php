@@ -103,8 +103,8 @@ This is a single or double acting cylinder. Telescopic cylinder contains more th
                     <li class="list-category-item"><a class="active" href="manufacturing.php">All manufacturing</a></li>
                       <li class="list-category-item"><a href="h-s.php">Hydraulic Seals</a></li>
                       <li class="list-category-item"><a href="hydraulicshoses.php">Hydraulic Hoses</a></li>
-                      <li class="list-category-item"><a href="c-s.php">Customized Systems</a></li>
-                      <li class="list-category-item"><a href="h-p.php">Hydraulic Power Unit</a></li>
+<!--                       <li class="list-category-item"><a href="c-s.php">Customized Systems</a></li>
+                      <li class="list-category-item"><a href="h-p.php">Hydraulic Power Unit</a></li> -->
                       <li class="list-category-item"><a href="h-pp.php">Hydraulic Power Pack</a></li>
                       <li class="list-category-item"><a href="#">Hydraulic Cylinders</a></li>
                     </ul>
